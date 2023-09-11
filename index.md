@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alexandru Podgoreanu's CV
 ---
 # Alexandru Podgoreanu
-Team lead, software engineer, developer.
+Team Lead - Software Engineer/Developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="sasha.podgoreanu@gmail.com">sasha.podgoreanu@gmail.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
@@ -86,6 +86,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2023 -->
 
 
