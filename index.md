@@ -10,6 +10,7 @@ Team Lead - Software Engineer/Developer
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
+![](20230911212411.png)
 
 ## Currently
 
