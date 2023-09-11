@@ -2,7 +2,16 @@
 layout: cv
 title: Alexandru Podgoreanu's CV
 ---
-# Alexandru Podgoreanu
+
+<div class="header">
+    <img src="20230911212411.png" alt="Alexandru Podgoreanu" class="profile-image" style="
+        height: 100px;
+        margin-left: 50px;
+        display: inline-block; /* Add this line */
+    ">
+    <h1 style="display: inline-block; /* Add this line */">Alexandru Podgoreanu</h1>
+</div>
+
 Team Lead - Software Engineer/Developer
 
 <div id="webaddress">
@@ -10,7 +19,7 @@ Team Lead - Software Engineer/Developer
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
-![](20230911212411.png)
+
 
 ## Currently
 
