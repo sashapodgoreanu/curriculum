@@ -7,9 +7,9 @@ title: Alexandru Podgoreanu's CV
     <img src="20230911212411.png" alt="Alexandru Podgoreanu" class="profile-image" style="
         height: 100px;
         margin-left: 50px;
-        display: inline-block; /* Add this line */
+        display: inline-block;
     ">
-    <h1 style="display: inline-block; /* Add this line */">Alexandru Podgoreanu</h1>
+    <h1 style="display: inline-block;">Alexandru Podgoreanu</h1>
 </div>
 
 Team Lead - Software Engineer/Developer
@@ -23,7 +23,7 @@ Team Lead - Software Engineer/Developer
 
 ## Currently
 
-Standing on the shoulders of giants
+<img src="20230911212411.png">
 
 ### Specialized in
 
