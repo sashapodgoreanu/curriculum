@@ -15,8 +15,6 @@ Team Lead - Software Engineer/Developer
 
 ## Currently
 
-<img src="20230911212411.png">
-
 ### Specialized in
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
