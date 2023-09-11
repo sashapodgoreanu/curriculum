@@ -3,15 +3,7 @@ layout: cv
 title: Alexandru Podgoreanu's CV
 ---
 
-<div class="header">
-    <img src="20230911212411.png" alt="Alexandru Podgoreanu" class="profile-image" style="
-        height: 100px;
-        margin-left: 50px;
-        display: inline-block;
-    ">
-    <h1 style="display: inline-block;">Alexandru Podgoreanu</h1>
-</div>
-
+# Alexandru Podgoreanu
 Team Lead - Software Engineer/Developer
 
 <div id="webaddress">
