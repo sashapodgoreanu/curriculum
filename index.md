@@ -8,7 +8,7 @@ Team Lead - Software Engineer/Developer
 
 <div id="webaddress">
 <a href="sasha.podgoreanu@gmail.com">sasha.podgoreanu@gmail.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="https://pdgalex.wordpress.com/">My portafolio page</a>
 </div>
 
 
