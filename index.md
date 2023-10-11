@@ -35,22 +35,22 @@ A seasoned full-stack developer and team leader, bringing over a decade of exper
 - **Project Management**: Scrum, Jira
 - **Testing**: Jest, Playwright, NUnit, MSTest
 
+## Work Experience
+  
+`2019 - present`
+__Team Lead at [XCally - Ingo Group](https://www.moneysupermarketgroup.com/), London (United Kingdom).__ <br>
+
 ## Education
 
-`2011-2015`
-__University of Turin, Turin (Italia).__ 
+`2011 - 2015`
+__University of Turin, Turin (Italia).__ <br>
 Degree in Information Science and Technology.<br>
 The thesis was titled: "Middleware communication solutions for in vitro diagnostic laboratories".
 
 
-`2000-2004`
-__Constantin Brancoveanu Industrial School Group, Braila (Romania).__ 
+`2000 - 2004` 
+__Constantin Brancoveanu Industrial School Group, Braila (Romania).__ <br>
 Specialization in Information Technology and Mathematics.
-
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
 
 ## Occupation
 
