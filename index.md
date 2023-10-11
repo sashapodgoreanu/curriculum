@@ -39,10 +39,14 @@ A seasoned full-stack developer and team leader, bringing over a decade of exper
 
 `2011-1015`
 __Università di Torino, Turin (Italia).__ 
+Degree in Information Science and Technology. 
+The thesis was titled: "Middleware communication solutions for in vitro diagnostic laboratories".
+
+`2005-2011`
 
 `2000-2004`
-__Constantin Brancoveanu College, Braila (Romania).__ 
-
+__Constantin Brancoveanu Industrial School Group, Braila (Romania).__ 
+Specialization in Information Technology and Mathematics.
 
 
 
