@@ -38,7 +38,10 @@ A seasoned full-stack developer and team leader, bringing over a decade of exper
 ## Work Experience
   
 `2019 - present`
-__Team Lead at [XCally - Ingo Group](https://www.moneysupermarketgroup.com/), London (United Kingdom).__ <br>
+__Team Lead at [XCally - Ingo Group](https://www.xenialab.com/), Turin (Italy).__ <br>
+- Leading the development of a new product, a cloud-based contact center solution, from scratch.
+- Responsible for the design of the solution architecture, the setup of the development processes, the recruitment of the development team, and the development of the first version of the product.
+- Hands-on development of the product.
 
 ## Education
 
