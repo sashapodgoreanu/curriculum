@@ -7,7 +7,7 @@ title: Alexandru Podgoreanu's CV
 Team Lead - Software Engineer/Developer
 
 <div id="webaddress">
-<a href="sasha.podgoreanu@gmail.com">sasha.podgoreanu@gmail.com</a>
+<a href="mailto:sasha.podgoreanu@gmail.com">sasha.podgoreanu@gmail.com</a>
 | <a href="https://pdgalex.wordpress.com/">My portafolio page</a>
 </div>
 
