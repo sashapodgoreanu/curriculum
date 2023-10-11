@@ -39,7 +39,7 @@ A seasoned full-stack developer and team leader, bringing over a decade of exper
   
 `2019 - present`
 __Team Lead at [XCally - Ingo Group](https://www.xenialab.com/), Turin (Italy).__ <br>
-Leading the development of new features for a product, a cloud-based contact center solution. Responsible for the design of the solution architecture, the setup of the development processes, the recruitment of the development team.
+Leading the development of new features for a product, a cloud-based and on-premise contact center solution. Responsible for the design of the solution architecture, the setup of the development processes, the recruitment of the development team.
 
 ## Education
 
