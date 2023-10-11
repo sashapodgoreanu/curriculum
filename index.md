@@ -11,7 +11,8 @@ Team Lead - Software Engineer/Developer
 | <a href="https://pdgalex.wordpress.com/">My portafolio page</a>
 </div>
 
-## Professional Summary
+## Currently
+### Professional Summary
 
 <!--
 (A brief overview of your career, highlighting your experience, qualifications, and skills in software engineering.)
