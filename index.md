@@ -37,10 +37,17 @@ A seasoned full-stack developer and team leader, bringing over a decade of exper
 
 ## Work Experience
   
-`2019 - present`
+`2021 - present`
 __Team Lead at [XCally - Ingo Group](https://www.xenialab.com/), Turin (Italy).__ <br>
 Leading the development of new features for a product, a cloud-based and on-premise contact center solution. Responsible for the design of the solution architecture, the setup of the development processes, the recruitment of the development team.
 
+`2018 - 2021`
+__Senior Software Developer at [Lutech](https://lutech.group/it), Turin (Italy).__ <br>
+Designed and implemented a solution for a large scale health care system, involving the build and integration of message based microservices. Developed a system for the management of the electronic health record of patients. The system was built using the following technologies: .NET, ServiceStack, MongoDB, Redis, Docker, Puppeteer, Jest. I also had the role of designing and implementing the CI/CD pipeline for the project using TeamCity.
+
+`2016 - 2018`
+
+`2015 - 2018`
 ## Education
 
 `2011 - 2015`
