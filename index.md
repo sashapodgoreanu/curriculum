@@ -43,11 +43,21 @@ Leading the development of new features for a product, a cloud-based and on-prem
 
 `2018 - 2021`
 __Senior Software Developer at [Lutech](https://lutech.group/it), Turin (Italy).__ <br>
-Designed and implemented a solution for a large scale health care system, involving the build and integration of message based microservices. Developed a system for the management of the electronic health record of patients. The system was built using the following technologies: .NET, ServiceStack, MongoDB, Redis, Docker, Puppeteer, Jest. I also had the role of designing and implementing the CI/CD pipeline for the project using TeamCity.
-
-`2016 - 2018`
+A key member of the Healthcare middleware product development team, serving as a full stack developer. Participated in the design and implementation of a large scale health care system which included building and integrating message-based microservices. Led the development of a system for the efficient management of patients' electronic health records, utilizing technologies such as .NET, ServiceStack, MongoDB, Redis, Docker, Puppeteer, and NUnit. Responsible for the creation and execution of the project's continuous integration/continuous development (CI/CD) pipeline using TeamCity. Consistently adheres to agile methodologies and ISO 13485 medical device quality management systems, coupled with managing and developing automatic release processes.
 
 `2015 - 2018`
+__Consultant at [Reply](https://www.reply.com/), Milan (Italy).__ <br>
+As a consultant for the London Stock Exchange Group (LSEG), at the Milan Italian Stock Exchange (Borsa Italiana), I joined a development team working with various technologies across different projects, predominantly using C# and .Net.
+
+In the context of a project (T2S), I developed a message acquisition system and designed libraries for ADO .Net and IBM MQ to streamline connection management, error message handling, query execution, and message capturing from and to IBM MQ / Oracle 12 DB queue.
+
+I participated in the development of a financial data monitoring platform based on ASP.NET MVC called T2S Dashboard, and was involved in the experimental development of a .Net Core, React.js, and Signal R based message exchange platform.
+
+For another project (T2S), I converted a library from C\C++ technologies by rewriting the code in .NET. In a project (MDMS), I worked on a Spring-based platform and contributed to the development of customized versions for various clients of Monte Titoli.
+
+On a project (QUiCK, MDMS) on the OpenText platform, I assisted in the migration of a product based on a Content Server (Document Management System), and developed an Eclipse plugin which added automation and versioning. 
+
+The technologies I worked with were: .NET, C#, ADO .NET, WCF, WPF, ASP .NET, MVC, .NET Core, MVVM, IIS 7, Oracle 12, SQLite, IBM DB2, IBM MQ 7.5, React JS, JQuery, Signal R, Livelink, Java, Spring, Java API for Microsoft Documents, Spring Stored Procedures, Spring JDBC Template, Spring Security, Internationalization, Tomcat, TFS, JIRA.
 ## Education
 
 `2011 - 2015`
