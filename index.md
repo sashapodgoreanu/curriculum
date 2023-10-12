@@ -47,17 +47,18 @@ A key member of the Healthcare middleware product development team, serving as a
 
 `2015 - 2018`
 __Consultant at [Reply](https://www.reply.com/), Milan (Italy).__ <br>
-As a consultant for the London Stock Exchange Group (LSEG), at the Milan Italian Stock Exchange (Borsa Italiana), I joined a development team working with various technologies across different projects, predominantly using C# and .Net.
+As a consultant for the London Stock Exchange Group (LSEG), at the Milan Italian Stock Exchange (Borsa Italiana), I joined a development team working with various technologies across different projects, predominantly using C# and .Net.<br>
 
-In the context of a project (T2S), I developed a message acquisition system and designed libraries for ADO .Net and IBM MQ to streamline connection management, error message handling, query execution, and message capturing from and to IBM MQ / Oracle 12 DB queue.
+In the context of a project (T2S), I developed a message acquisition system and designed libraries for ADO .Net and IBM MQ to streamline connection management, error message handling, query execution, and message capturing from and to IBM MQ / Oracle 12 DB queue.<br>
 
-I participated in the development of a financial data monitoring platform based on ASP.NET MVC called T2S Dashboard, and was involved in the experimental development of a .Net Core, React.js, and Signal R based message exchange platform.
+I participated in the development of a financial data monitoring platform based on ASP.NET MVC called T2S Dashboard, and was involved in the experimental development of a .Net Core, React.js, and Signal R based message exchange platform.<br>
 
-For another project (T2S), I converted a library from C\C++ technologies by rewriting the code in .NET. In a project (MDMS), I worked on a Spring-based platform and contributed to the development of customized versions for various clients of Monte Titoli.
+For another project (T2S), I converted a library from C\C++ technologies by rewriting the code in .NET. In a project (MDMS), I worked on a Spring-based platform and contributed to the development of customized versions for various clients of Monte Titoli.<br>
 
-On a project (QUiCK, MDMS) on the OpenText platform, I assisted in the migration of a product based on a Content Server (Document Management System), and developed an Eclipse plugin which added automation and versioning. 
+On a project (QUiCK, MDMS) on the OpenText platform, I assisted in the migration of a product based on a Content Server (Document Management System), and developed an Eclipse plugin which added automation and versioning.<br>
 
 The technologies I worked with were: .NET, C#, ADO .NET, WCF, WPF, ASP .NET, MVC, .NET Core, MVVM, IIS 7, Oracle 12, SQLite, IBM DB2, IBM MQ 7.5, React JS, JQuery, Signal R, Livelink, Java, Spring, Java API for Microsoft Documents, Spring Stored Procedures, Spring JDBC Template, Spring Security, Internationalization, Tomcat, TFS, JIRA.
+
 ## Education
 
 `2011 - 2015`
