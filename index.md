@@ -35,7 +35,7 @@ A seasoned full-stack developer and team leader, bringing over a decade of exper
 - **Project Management**: Scrum, Jira
 - **Testing**: Jest, Playwright, NUnit, MSTest
 
-## Latest Work Experience
+## The Latest Work Experience
   
 `2021 - present`
 __Team Lead at [XCally - Ingo Group](https://www.xenialab.com/), Turin (Italy).__ <br>
