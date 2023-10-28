@@ -106,10 +106,7 @@ Specialization in Information Technology and Mathematics.
 
 ## Personal Interests
 
-I have a passion for reading and enjoy reading books on a wide range of topics. I also have a keen interest in technology and am a big fan of science fiction. 
-I enjoy traveling and have visited many countries throughout Europe and South America. I am also a big fan of sports and enjoy playing tennis, football, and volleyball.
-
-
+Passionate about technology and an ardent aficionado of science fiction, I have a natural curiosity for both sectors. My interest extends to the culinary arts where I showcase my love for food, particularly Italian cuisine, which I indulge through my hobby of cooking. With an affinity for crafting, particularly woodwork, I find fulfillment in pursuing different DIY projects. Furthermore, I revel in the thrill of exploring new places, having extensively toured various countries across Europe and South America. Nature walks through forests are my ideal way of spending cooler days, while swimming or mountain biking are my preferred activities during warmer weather.
 <!-- ### Footer
 
 Last updated: May 2023 -->
