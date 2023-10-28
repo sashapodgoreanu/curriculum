@@ -38,6 +38,10 @@ A seasoned full-stack developer and team leader, bringing over a decade of exper
 
 ### Soft Skills
 
+- **Communication**: excellent communication skills, both written and verbal, with a natural ability to convey complex information in a straightforward manner
+- **Teamwork**: a collaborative team player, adept at working in a team environment and capable of working with multiple stakeholders, including developers, testers, and product owners
+- **Analytical and Problem-Solving Skills**: a resourceful problem solver, with a keen eye for detail and the ability to think outside the box to come up with creative solutions
+
 ## The Latest Work Experience
   
 `2021 - present`
