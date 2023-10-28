@@ -8,7 +8,7 @@ Team Lead - Software Engineer/Developer
 
 <div id="webaddress">
 <a href="mailto:sasha.podgoreanu@gmail.com">sasha.podgoreanu@gmail.com</a>
-| <a href="tel:+393280169265">(+39) 328 016 9265</a>
+| <i class="fa fa-phone"></i><a href="tel:+393280169265">(+39) 328 016 9265</a>
 | <a href="https://pdgalex.wordpress.com/">My portafolio page</a>
 </div>
 
