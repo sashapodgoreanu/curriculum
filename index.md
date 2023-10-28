@@ -94,12 +94,12 @@ Specialization in Information Technology and Mathematics.
 
 ## Language Competence
 
-Fluent `English`. <br>
-Fluent `Italian`. <br>
-Intermediate `Spanish`. <br>
-Beginner `Portuguese`. <br>
-Native Language (bilingual) `Romanian`. <br>
-Native Language (bilingual) `Russian`. <br>
+`Fluent` English. <br>
+`Fluent` Italian. <br>
+`Intermediate` Spanish. <br>
+`Beginner` Portuguese. <br>
+`Native Language (bilingual)` Romanian. <br>
+`Native Language (bilingual)` Russian. <br>
 
 
 <!-- ### Footer
