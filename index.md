@@ -36,6 +36,8 @@ A seasoned full-stack developer and team leader, bringing over a decade of exper
 - **Project Management**: Scrum, Jira
 - **Testing**: Jest, Playwright, NUnit, MSTest
 
+### Soft Skills
+
 ## The Latest Work Experience
   
 `2021 - present`
@@ -101,6 +103,11 @@ Specialization in Information Technology and Mathematics.
 `Beginner` Portuguese. <br>
 `Native Language (bilingual)` Romanian. <br>
 `Native Language (bilingual)` Russian. <br>
+
+## Personal Interests
+
+I have a passion for reading and enjoy reading books on a wide range of topics. I also have a keen interest in technology and am a big fan of science fiction. 
+I enjoy traveling and have visited many countries throughout Europe and South America. I am also a big fan of sports and enjoy playing tennis, football, and volleyball.
 
 
 <!-- ### Footer
