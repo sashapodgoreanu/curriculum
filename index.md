@@ -90,17 +90,14 @@ The thesis was titled: "Middleware communication solutions for in vitro diagnost
 __Constantin Brancoveanu Industrial School Group, Braila (Romania).__ <br>
 Specialization in Information Technology and Mathematics.
 
-## Occupation
+## Language Competence
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`English`: Fluent. <br>
+`Italian`: Fluent. <br>
+`Spanish`: Intermediate. <br>
+`Portuguese`: Beginner. <br>
+`Romanian`: Native Language (bilingual). <br>
+`Russian`: Native Language (bilingual). <br>
 
 
 <!-- ### Footer
