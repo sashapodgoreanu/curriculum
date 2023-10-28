@@ -102,7 +102,7 @@ Specialization in Information Technology and Mathematics.
 `Intermediate` Spanish. <br>
 `Beginner` Portuguese. <br>
 `Native Language (bilingual)` Romanian. <br>
-`Native Language (bilingual)` Russian. <br>
+Russian. <br>
 
 ## Personal Interests
 
