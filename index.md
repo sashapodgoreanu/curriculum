@@ -38,11 +38,9 @@ A seasoned full-stack developer and team leader, bringing over a decade of exper
 
 ### Soft Skills
 
-- **Communication**: excellent communication skills, both written and verbal, with a natural ability to convey complex information in a straightforward manner
-
-- **Teamwork**: a collaborative team player, adept at working in a team environment and capable of working with multiple stakeholders, including developers, testers, and product owners
-
-- **Analytical and Problem-Solving Skills**: a resourceful problem solver, with a keen eye for detail and the ability to think outside the box to come up with creative solutions
+- **Communication**: excellent communication skills, both written and verbal, with a natural ability to convey complex information in a straightforward manner<br>
+- **Teamwork**: a collaborative team player, adept at working in a team environment and capable of working with multiple stakeholders, including developers, testers, and product owners<br>
+- **Analytical and Problem-Solving Skills**: a resourceful problem solver, with a keen eye for detail and the ability to think outside the box to come up with creative solutions<br>
 
 ## The Latest Work Experience
   
@@ -115,7 +113,7 @@ Russian. <br>
 Passionate about technology and an ardent aficionado of science fiction, I have a natural curiosity for both sectors. My interest extends to the culinary arts where I showcase my love for food, particularly Italian cuisine, which I indulge through my hobby of cooking. With an affinity for crafting, particularly woodwork, I find fulfillment in pursuing different DIY projects. Furthermore, I revel in the thrill of exploring new places, having extensively toured various countries across Europe and South America. Nature walks through forests are my ideal way of spending cooler days, while swimming or mountain biking are my preferred activities during warmer weather.
 
 ### Declaration of Consent
-<p style="font-size:10px;"> I hereby provide my explicit consent for the use of my personal information in accordance with the General Data Protection Regulation (Regulation EU 2016/679). This consent applies throughout the European Union, Switzerland, and the United Kingdom. </p>
+I hereby provide my explicit consent for the use of my personal information in accordance with the General Data Protection Regulation (Regulation EU 2016/679). This consent applies throughout the European Union, Switzerland, and the United Kingdom.
 
 ### Further Information
 Last updated: October 2023
