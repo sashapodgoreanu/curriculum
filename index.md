@@ -26,7 +26,7 @@ A seasoned full-stack developer and team leader, bringing over a decade of exper
 --> 
 
 - **Programming Languages**: C#, TypeScript, JavaScript, Java, C, C++
-- **Frameworks**: .NET, ServiceStack, Angular, Angular.js, Nest.js, Node.js, Express.js, 
+- **Frameworks**: .NET, ServiceStack, Angular, Angular.js, Nest.js, Node.js, Express.js, RxJs, NgRx, EF Core 
 - **Database Systems**: Oracle, Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Redis, ElasticSearch, SQLite
 - **ORM**: Entity Framework, TypeORM, Sequelize, Mongoose, 
 - **Web Servers**: IIS, Nginx
@@ -41,7 +41,7 @@ A seasoned full-stack developer and team leader, bringing over a decade of exper
 __Team Lead at [XCally - Ingo Group](https://www.xenialab.com/), Turin (Italy).__ <br>
 Leading the development of new features for a product, a cloud-based and on-premise contact center solution. Responsible for the design of the solution architecture, the setup of the development processes, and the recruitment of the development team. Developed and designed integrations with Facebook, WhatsApp, OpenIA, and AWS Post Call Analytics and Transcribe. Created dashboards by exploiting a data lake and time series database that draw metrics from Asterisk. Spearheaded the development of a new reporting system by leveraging a data warehouse.<br> 
 
-I consolidated my skills in several areas and technologies, including: DevOps development, problem-solving, communication and presentation skills, and the ability to work in a team, Node.js, TypeScript, Nest.js, Sequelize, Redis, AWS, Playwright, and ElasticSearch.<br>
+I consolidated my skills in several areas and technologies, including: DevOps development, problem-solving, communication and presentation skills, and the ability to work in a team, Node.js, TypeScript, Nest.js, RxJs,Angular, Sequelize, Redis, AWS, Playwright<br>
 
 `2018 - 2021`
 __Senior Software Developer at [Lutech](https://lutech.group/it), Turin (Italy).__ <br>
