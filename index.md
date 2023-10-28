@@ -90,7 +90,7 @@ As a part of a team specialising in web applications, I took part in the develop
 ## Education
 
 `2011 - 2015`
-__University of Turin, Turin (Italia).__ <br>
+__University of Turin, Turin (Italy).__ <br>
 Degree in Information Science and Technology.<br>
 The thesis was titled: "Middleware communication solutions for in vitro diagnostic laboratories".
 
