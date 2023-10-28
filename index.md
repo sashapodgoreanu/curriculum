@@ -35,7 +35,7 @@ A seasoned full-stack developer and team leader, bringing over a decade of exper
 - **Project Management**: Scrum, Jira
 - **Testing**: Jest, Playwright, NUnit, MSTest
 
-## Work Experience
+## Latest Work Experience
   
 `2021 - present`
 __Team Lead at [XCally - Ingo Group](https://www.xenialab.com/), Turin (Italy).__ <br>
@@ -61,6 +61,7 @@ On a project (QUiCK, MDMS) on the OpenText platform, I assisted in the migration
 
 The technologies I worked with were: .NET, C#, ADO .NET, WCF, WPF, ASP .NET, MVC, .NET Core, MVVM, IIS 7, Oracle 12, SQLite, IBM DB2, IBM MQ 7.5, React JS, JQuery, Signal R, Livelink, Java, Spring, Java API for Microsoft Documents, Spring Stored Procedures, Spring JDBC Template, Spring Security, Internationalization, Tomcat, TFS, JIRA.
 
+<!-- >
 `2009 - 2011`
 __Freelancer Software Developer, Turin (Italia).__<br>
 
@@ -77,6 +78,7 @@ I was integrated into a team that developed desktop applications for public admi
 `2006 - 2007`
 __Junior Developer at Unreal Home Web S.r.l – Galati (Romania).__<br>
 As a part of a team specialising in web applications, I took part in the development of websites for various clientele. During this time, I also completed an internship subsequent to my high school education.
+-->
 
 ## Education
 
