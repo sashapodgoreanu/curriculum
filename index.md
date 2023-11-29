@@ -9,7 +9,6 @@ Team Lead - Software Engineer/Developer
 <div id="webaddress">
 <i class="fa fa-envelope"></i> <a href="mailto:sasha.podgoreanu@gmail.com">sasha.podgoreanu@gmail.com</a>
 | <i class="fa fa-phone"></i> <a href="tel:+393280169265">(+39) 328 016 9265</a>
-| <i class="fa fa-globe"></i> <a href="https://pdgalex.wordpress.com/">My portafolio page</a>
 </div>
 
 ## Currently
@@ -28,13 +27,14 @@ A seasoned full-stack developer and team leader, bringing over a decade of exper
 
 - **Programming Languages**: C#, TypeScript, JavaScript, Java, C, C++
 - **Frameworks**: .NET, ServiceStack, Angular, Angular.js, Nest.js, Node.js, Express.js, RxJs, NgRx, EF Core 
-- **Database Systems**: Oracle, Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Redis, ElasticSearch, SQLite
+- **Database Systems**: Oracle, Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Redis, ElasticSearch, SQLite, Graphite, Prometheus
 - **ORM**: Entity Framework, TypeORM, Sequelize, Mongoose, 
 - **Web Servers**: IIS, Nginx
 - **Cloud**: AWS
 - **DevOps**: Docker, TeamCity, Jenkins, Git,
 - **Project Management**: Scrum, Jira
-- **Testing**: Jest, Playwright, NUnit, MSTest
+- **Testing**: Jest, Playwright, NUnit, MSTest,
+- **Other Technologies**: Kafka, Asterisk, Puppeteer, Grafana
 
 ### Soft Skills
 
@@ -46,9 +46,9 @@ A seasoned full-stack developer and team leader, bringing over a decade of exper
   
 `2021 - present`
 __Team Lead at [XCally - Ingo Group](https://www.xenialab.com/), Turin (Italy).__ <br>
-Leading the development of new features for a product, a cloud-based and on-premise contact center solution. Responsible for the design of the solution architecture, the setup of the development processes, and the recruitment of the development team. Developed and designed integrations with Facebook, WhatsApp, OpenIA, and AWS Post Call Analytics and Transcribe. Created dashboards by exploiting a data lake and time series database that draw metrics from Asterisk. Spearheaded the development of a new reporting system by leveraging a data warehouse.<br> 
+Leading the development of new features for a product, a cloud-based and on-premise contact center solution. Responsible for the design of the solution architecture, the setup of the development processes, and the recruitment of the development team. Developed and designed integrations with Facebook, WhatsApp, OpenIA, and AWS Post Call Analytics and Transcribe. Created dashboards by exploiting a data lake and time series database that draw metrics. Spearheaded the development of a new reporting system by leveraging a data warehouse.<br> 
 
-I consolidated my skills in several areas and technologies, including: DevOps development, problem-solving, communication and presentation skills, and the ability to work in a team, Node.js, TypeScript, Nest.js, RxJs,Angular, Sequelize, Redis, AWS, Playwright<br>
+I consolidated my skills in several areas and technologies, including: DevOps development, problem-solving, communication and presentation skills, and the ability to work in a team, Node.js, TypeScript, Nest.js, RxJs,Angular, Sequelize, Redis, AWS, Playwright, Asterisk, Prometheus, Graphite, Grafana<br>
 
 `2018 - 2021`
 __Senior Software Developer at [Lutech](https://lutech.group/it), Turin (Italy).__ <br>
@@ -115,8 +115,10 @@ Passionate about technology and an ardent aficionado of science fiction, I have 
 ### Declaration of Consent
 I hereby provide my explicit consent for the use of my personal information in accordance with the General Data Protection Regulation (Regulation EU 2016/679). This consent applies throughout the European Union, Switzerland, and the United Kingdom.
 
+In compliance with the Italian legislative Decree no. 196 dated 30/06/2003, I hereby authorize you to use and process my personal details contained in this document.
+
 ### Further Information
-Last updated: October 2023
+Last updated: November 2023
 
 
 
