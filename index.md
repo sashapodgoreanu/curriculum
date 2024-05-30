@@ -108,7 +108,7 @@ Specialization in Information Technology and Mathematics.
 
 ## Language Competence
 
-`Fluent` English. <br>
+`Intermediate` English. <br>
 `Fluent` Italian. <br>
 `Intermediate` Spanish. <br>
 `Beginner` Portuguese. <br>
