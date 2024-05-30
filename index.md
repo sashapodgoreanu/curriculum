@@ -4,7 +4,7 @@ title: Alexandru Podgoreanu's CV
 ---
 
 # Alexandru Podgoreanu
-Team Lead - Software Engineer/Developer
+Product Architecture Specialist
 
 <div id="webaddress">
 <i class="fa fa-envelope"></i> <a href="mailto:sasha.podgoreanu@gmail.com">sasha.podgoreanu@gmail.com</a>
