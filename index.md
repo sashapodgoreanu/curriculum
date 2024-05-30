@@ -43,8 +43,17 @@ A seasoned full-stack developer and team leader, bringing over a decade of exper
 - **Analytical and Problem-Solving Skills**: a resourceful problem solver, with a keen eye for detail and the ability to think outside the box to come up with creative solutions<br>
 
 ## The Latest Work Experience
+
   
-`2021 - present`
+`2024 - present`
+__Product Architecture Specialist at [IRION](https://www.irion-edm.com/), Turin (Italy).__ <br>
+In my role at Irion, I am at the forefront of the development of Irion EDM, an advanced IDE that excels in ETL operations. With my strong technical expertise, I contribute to expanding our platform with a wide range of connectors for SQL and other data engines, addressing the challenge of unifying and simplifying information management.<br>
+
+Additionally, I am working on a research project involving an extension that facilitates communication between SQL Server and DuckDB using ODBC drivers.<br> 
+
+The technologies I worked with were: dotnet, c++, DuckDb, T-SQL, ODBC<br>
+  
+`2021 - 2024`
 __Team Lead at [XCally - Ingo Group](https://www.ingogroup.it/), Turin (Italy).__ <br>
 Leading the development of new features for a product, a cloud-based and on-premise contact center solution. Responsible for the design of the solution architecture, the setup of the development processes, and the recruitment of the development team. Developed and designed integrations with Facebook, WhatsApp, OpenIA, and AWS Post Call Analytics and Transcribe. Created dashboards by exploiting a data lake and time series database that draw metrics. Spearheaded the development of a new reporting system by leveraging a data warehouse.<br> 
 
@@ -118,7 +127,7 @@ I hereby provide my explicit consent for the use of my personal information in a
 In compliance with the Italian legislative Decree no. 196 dated 30/06/2003, I hereby authorize you to use and process my personal details contained in this document.
 
 ### Further Information
-Last updated: November 2023
+Last updated: May 2024
 
 
 
