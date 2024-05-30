@@ -47,7 +47,7 @@ A seasoned full-stack developer and team leader, bringing over a decade of exper
   
 `2024 - present`
 __Product Architecture Specialist at [IRION](https://www.irion-edm.com/), Turin (Italy).__ <br>
-In my role at Irion, I am at the forefront of the development of Irion EDM, an advanced IDE that excels in ETL operations. With my strong technical expertise, I contribute to expanding our platform with a wide range of connectors for SQL and other data engines, addressing the challenge of unifying and simplifying information management.<br>
+In my role at Irion, I am at the forefront of the development of Irion EDM, an advanced IDE that excels in ETL operations. With my strong technical expertise, I contribute to expanding the platform with a wide range of connectors for SQL and other data engines, addressing the challenge of unifying and simplifying information management.<br>
 
 Additionally, I am working on a research project involving an extension that facilitates communication between SQL Server and DuckDB using ODBC drivers.<br> 
 
