@@ -125,7 +125,7 @@ I hereby provide my explicit consent for the use of my personal information in a
 In compliance with the Italian legislative Decree no. 196 dated 30/06/2003, I hereby authorize you to use and process my personal details contained in this document.
 
 ### Further Information
-Last updated: May 2024
+Last updated: February 2025
 
 
 
