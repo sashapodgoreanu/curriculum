@@ -27,8 +27,8 @@ A seasoned full-stack developer and team leader, bringing over a decade of exper
 
 - **Programming Languages**: C#, TypeScript, JavaScript, Java, C, C++
 - **Frameworks**: .NET, ServiceStack, Angular, Angular.js, Nest.js, Node.js, Express.js, RxJs, NgRx, EF Core 
-- **Database Systems**: Oracle, Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Redis, ElasticSearch, SQLite, Graphite, Prometheus
-- **ORM**: Entity Framework, TypeORM, Sequelize, Mongoose, 
+- **Database Systems**: Oracle, Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Redis, ElasticSearch, SQLite, Graphite, Prometheus, DuckDB
+- **ORM**: Entity Framework, TypeORM, Sequelize, Mongoose
 - **Web Servers**: IIS, Nginx
 - **Cloud**: AWS
 - **DevOps**: Docker, TeamCity, Jenkins, Git,
