@@ -25,16 +25,26 @@ A seasoned full-stack developer and team leader, bringing over a decade of exper
 (List the programming languages and software you are proficient in, as well as any other related technical skills.)
 --> 
 
-- **Programming Languages**: C#, TypeScript, JavaScript, Java, C, C++
-- **Frameworks**: .NET, ServiceStack, Angular, Angular.js, Nest.js, Node.js, Express.js, RxJs, NgRx, EF Core 
-- **Database Systems**: Oracle, Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Redis, ElasticSearch, SQLite, Graphite, Prometheus, DuckDB
-- **ORM**: Entity Framework, TypeORM, Sequelize, Mongoose
-- **Web Servers**: IIS, Nginx
-- **Cloud**: AWS
-- **DevOps**: Docker, TeamCity, Jenkins, Git,
-- **Project Management**: Scrum, Jira
-- **Testing**: Jest, Playwright, NUnit, MSTest,
-- **Other Technologies**: Kafka, Asterisk, Puppeteer, Grafana
+#### Programming Languages
+- **Proficient:** C#, TypeScript, JavaScript, Java, C, C++
+
+#### Frameworks & Libraries
+- **Backend:** .NET, ServiceStack, Node.js, Express.js, Nest.js  
+- **Frontend:** Angular, Angular.js, RxJs, NgRx  
+- **Testing:** Jest, Playwright, NUnit, MSTest  
+
+#### Databases & Data Management
+- **Relational:** Oracle, Microsoft SQL Server, MySQL, PostgreSQL, SQLite  
+- **NoSQL & Analytics:** MongoDB, Redis, ElasticSearch, DuckDB  
+- **Monitoring:** Graphite, Prometheus  
+
+#### DevOps & Cloud
+- **CI/CD & Tools:** Docker, TeamCity, Jenkins, Git  
+- **Cloud:** AWS
+
+#### Other Technologies
+- Kafka, Asterisk, Puppeteer, Grafana, WebAssembly, service workers, web workers, OAuth, OpenID
+
 
 ### Soft Skills
 
@@ -46,13 +56,15 @@ A seasoned full-stack developer and team leader, bringing over a decade of exper
 
   
 `2024 - present`
-__Product Architecture Specialist at [IRION](https://www.irion-edm.com/), Turin (Italy).__ <br>
-In my role at Irion, I am at the forefront of the development of Irion EDM, an advanced IDE that excels in ETL operations. With my strong technical expertise, I contribute to expanding the platform with a wide range of connectors for SQL and other data engines, addressing the challenge of unifying and simplifying information management.<br>
+__Software Engineer in the Architecture Team at [IRION](https://www.irion-edm.com/), Turin (Italy).__ <br>
+- Worked on a research project involving an extension that facilitates communication between SQL Server and DuckDB using ODBC drivers.<br> 
+- Evaluate and integrate emerging technologies into Irion EDM platform through proofs-of-concept, identifying strengths and weaknesses to guide adoption decisions.  
+- Provide best practice recommendations and technical guidance to development teams.  
+- Developed telemetry solutions using Opentelemetry and explored technologies such as WebAssembly, service workers, and web workers to enhance system capabilities.  
+- Led the migration from Redis to Garnet and designed a distributed queue system using Garnet, improving data processing.
 
-Additionally, I am working on a research project involving an extension that facilitates communication between SQL Server and DuckDB using ODBC drivers.<br> 
+**Technologies:** DuckDB, Opentelemetry, WebAssembly, service workers, web workers, OAuth, OpenID, Redis, Garnet
 
-The technologies I worked with were: dotnet, c++, DuckDb, T-SQL, ODBC<br>
-  
 `2021 - 2024`
 __Team Lead at [XCally - Ingo Group](https://www.ingogroup.it/), Turin (Italy).__ <br>
 Leading the development of new features for a product, a cloud-based and on-premise contact center solution. Responsible for the design of the solution architecture, the setup of the development processes, and the recruitment of the development team. Developed and designed integrations with Facebook, WhatsApp, OpenIA, and AWS Post Call Analytics and Transcribe. Created dashboards by exploiting a data lake and time series database that draw metrics. Spearheaded the development of a new reporting system by leveraging a data warehouse.<br> 
