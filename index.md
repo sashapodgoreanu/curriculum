@@ -26,24 +26,24 @@ A seasoned full-stack developer and team leader, bringing over a decade of exper
 --> 
 
 #### Programming Languages
-- **Proficient:** C#, TypeScript, JavaScript, Java, C, C++
+**Proficient:** C#, TypeScript, JavaScript, Java, C, C++
 
 #### Frameworks & Libraries
-- **Backend:** .NET, ServiceStack, Node.js, Express.js, Nest.js  
-- **Frontend:** Angular, Angular.js, RxJs, NgRx  
-- **Testing:** Jest, Playwright, NUnit, MSTest  
+**Backend:** .NET, ServiceStack, Node.js, Express.js, Nest.js  
+**Frontend:** Angular, Angular.js, RxJs, NgRx  
+**Testing:** Jest, Playwright, NUnit, MSTest  
 
 #### Databases & Data Management
-- **Relational:** Oracle, Microsoft SQL Server, MySQL, PostgreSQL, SQLite  
-- **NoSQL & Analytics:** MongoDB, Redis, ElasticSearch, DuckDB  
-- **Monitoring:** Graphite, Prometheus  
+**Relational:** Oracle, Microsoft SQL Server, MySQL, PostgreSQL, SQLite  
+**NoSQL & Analytics:** MongoDB, Redis, ElasticSearch, DuckDB  
+**Monitoring:** Graphite, Prometheus, Opentelemetry
 
 #### DevOps & Cloud
-- **CI/CD & Tools:** Docker, TeamCity, Jenkins, Git  
-- **Cloud:** AWS
+**CI/CD & Tools:** Docker, TeamCity, Jenkins, Git  
+**Cloud:** AWS
 
 #### Other Technologies
-- Kafka, Asterisk, Puppeteer, Grafana, WebAssembly, service workers, web workers, OAuth, OpenID
+Kafka, Asterisk, Puppeteer, Grafana, WebAssembly, service workers, web workers, OAuth, OpenID
 
 
 ### Soft Skills
@@ -53,17 +53,12 @@ A seasoned full-stack developer and team leader, bringing over a decade of exper
 - **Analytical and Problem-Solving Skills**: a resourceful problem solver, with a keen eye for detail and the ability to think outside the box to come up with creative solutions<br>
 
 ## The Latest Work Experience
-
   
 `2024 - present`
 __Software Engineer in the Architecture Team at [IRION](https://www.irion-edm.com/), Turin (Italy).__ <br>
-- Worked on a research project involving an extension that facilitates communication between SQL Server and DuckDB using ODBC drivers.<br> 
-- Evaluate and integrate emerging technologies into Irion EDM platform through proofs-of-concept, identifying strengths and weaknesses to guide adoption decisions.  
-- Provide best practice recommendations and technical guidance to development teams.  
-- Developed telemetry solutions using Opentelemetry and explored technologies such as WebAssembly, service workers, and web workers to enhance system capabilities.  
-- Led the migration from Redis to Garnet and designed a distributed queue system using Garnet, improving data processing.
+Worked on a research project involving an extension that facilitates communication between SQL Server and DuckDB using ODBC drivers.Evaluate and integrate emerging technologies into Irion EDM platform through proofs-of-concept, identifying strengths and weaknesses to guide adoption decisions. Provide best practice recommendations and technical guidance to development teams. Developed telemetry solutions using Opentelemetry and explored technologies such as WebAssembly, service workers, and web workers to enhance system capabilities.Led the migration from Redis to Garnet and designed a distributed queue system using Garnet, improving data processing.<br>
 
-**Technologies:** DuckDB, Opentelemetry, WebAssembly, service workers, web workers, OAuth, OpenID, Redis, Garnet
+**Technologies:** DuckDB, Opentelemetry, WebAssembly, service workers, web workers, OAuth, OpenID, Redis, Garnet<br>
 
 `2021 - 2024`
 __Team Lead at [XCally - Ingo Group](https://www.ingogroup.it/), Turin (Italy).__ <br>
