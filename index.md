@@ -20,29 +20,24 @@ Product Architecture Specialist
 
 A seasoned full-stack developer and team leader, bringing over a decade of experience in software development and engineering. Proven expertise in managing a wide spectrum of projects ranging from small websites to large enterprise applications, encompassing all stages from planning to deployment. Recognized for the ability to effectively lead a team of programmers and consultants, with a knack for excellent communication, swift adaptability, and rapid learning. Take immense pride in delivering high-quality work, underpinned by a keen interest in software engineering and architecture.
 
-### Technical Skill
-<!--
-(List the programming languages and software you are proficient in, as well as any other related technical skills.)
---> 
-
-#### Programming Languages
+### Programming Languages
 **Proficient:** C#, TypeScript, JavaScript, Java, C, C++
 
-#### Frameworks & Libraries
+### Frameworks & Libraries
 **Backend:** .NET, ServiceStack, Node.js, Express.js, Nest.js  
 **Frontend:** Angular, Angular.js, RxJs, NgRx  
 **Testing:** Jest, Playwright, NUnit, MSTest  
 
-#### Databases & Data Management
+### Databases & Data Management
 **Relational:** Oracle, Microsoft SQL Server, MySQL, PostgreSQL, SQLite  
 **NoSQL & Analytics:** MongoDB, Redis, ElasticSearch, DuckDB  
 **Monitoring:** Graphite, Prometheus, Opentelemetry
 
-#### DevOps & Cloud
+### DevOps & Cloud
 **CI/CD & Tools:** Docker, TeamCity, Jenkins, Git  
 **Cloud:** AWS
 
-#### Other Technologies
+##s# Other Technologies
 Kafka, Asterisk, Puppeteer, Grafana, WebAssembly, service workers, web workers, OAuth, OpenID
 
 
