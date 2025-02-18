@@ -18,7 +18,7 @@ Product Architecture Specialist
 (A brief overview of your career, highlighting your experience, qualifications, and skills in software engineering.)
 -->
 
-A seasoned full-stack developer and team leader, bringing over a decade of experience in software development and engineering. Proven expertise in managing a wide spectrum of projects ranging from small websites to large enterprise applications, encompassing all stages from planning to deployment. Recognized for the ability to effectively lead a team of programmers and consultants, with a knack for excellent communication, swift adaptability, and rapid learning. Take immense pride in delivering high-quality work, underpinned by a keen interest in software engineering and architecture.
+A seasoned full-stack developer with over a decade of experience in software development and engineering. I have successfully designed, developed, and deployed robust solutions for projects ranging from small websites to large enterprise applications. With a deep focus on software architecture, I excel in evaluating and integrating emerging technologies to create scalable, high-performance systems. I am passionate about delivering high-quality work, continually learning, and adapting in a fast-paced technological landscape.
 
 ### Programming Languages
 **Proficient:** C#, TypeScript, JavaScript, Java, C, C++
