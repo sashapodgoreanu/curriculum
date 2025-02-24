@@ -113,7 +113,6 @@ Specializzazione in Tecnologie dell'Informazione e Matematica.
 `Intermedio` Spagnolo.<br>
 `Principiante` Portoghese.<br>
 `Madrelingua (bilingue)` Rumeno.<br>
-Russo.
 
 ## Interessi Personali
 
