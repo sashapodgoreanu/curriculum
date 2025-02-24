@@ -9,6 +9,7 @@ Software Engineer
 <div id="webaddress">
 <i class="fa fa-envelope"></i> <a href="mailto:p.alxzeta@gmail.com">sasha.podgoreanu@gmail.com</a>
 | <i class="fa fa-phone"></i> <a href="tel:+39 3280169285">(+39) 328 016 9285</a>
+| <i class="fa fa-map-marker"></i> Torino (Italia)
 </div>
 
 ## Attualmente
