@@ -1,133 +1,128 @@
 ---
 layout: cv
-title: Alexandru Podgoreanu's CV
+title: Curriculum Vitae di Alexandru Podgoreanu
 ---
 
 # Alexandru Podgoreanu
-Software Engineer
+Ingegnere del Software
 
 <div id="webaddress">
 <i class="fa fa-envelope"></i> <a href="mailto:sasha.podgoreanu@gmail.com">sasha.podgoreanu@gmail.com</a>
 | <i class="fa fa-phone"></i> <a href="tel:+39 3280169285">(+39) 328 016 9285</a>
 </div>
 
-## Currently
-### Professional Summary
+## Attualmente
+### Profilo Professionale
 
 <!--
-(A brief overview of your career, highlighting your experience, qualifications, and skills in software engineering.)
+(Un breve riepilogo della tua carriera, evidenziando la tua esperienza, qualifiche e competenze nell'ingegneria del software.)
 -->
 
-A seasoned full-stack developer with over a decade of experience in software development and engineering. I have successfully designed, developed, and deployed robust solutions for projects ranging from small websites to large enterprise applications. With a deep focus on software architecture, I excel in evaluating and integrating emerging technologies to create scalable, high-performance systems. I am passionate about delivering high-quality work, continually learning, and adapting in a fast-paced technological landscape.
+Sviluppatore full-stack esperto con oltre un decennio di esperienza nello sviluppo e nell'ingegneria del software. Ho progettato, sviluppato e implementato con successo soluzioni robuste per progetti che spaziano da piccoli siti web a grandi applicazioni aziendali. Con una profonda attenzione all'architettura del software, eccello nella valutazione e integrazione di tecnologie emergenti per creare sistemi scalabili e ad alte prestazioni. Sono appassionato nel fornire lavori di alta qualità, nell'apprendimento continuo e nell'adattamento in un panorama tecnologico in rapida evoluzione.
 
-### Programming Languages
-**Proficient:** C#, TypeScript, JavaScript, Java, C, C++
+### Linguaggi di Programmazione
+**Competente:** C#, TypeScript, JavaScript, Java, C, C++
 
-### Frameworks & Libraries
+### Framework e Librerie
 **Backend:** .NET, ServiceStack, Node.js, Express.js, Nest.js  
 **Frontend:** Angular, Angular.js, RxJs, NgRx  
 **Testing:** Jest, Playwright, NUnit, MSTest  
 
-### Databases & Data Management
-**Relational:** Oracle, Microsoft SQL Server, MySQL, PostgreSQL, SQLite  
-**NoSQL & Analytics:** MongoDB, Redis, ElasticSearch, DuckDB  
-**Monitoring:** Graphite, Prometheus, Opentelemetry
+### Database e Gestione Dati
+**Relazionali:** Oracle, Microsoft SQL Server, MySQL, PostgreSQL, SQLite  
+**NoSQL e Analytics:** MongoDB, Redis, ElasticSearch, DuckDB  
+**Monitoraggio:** Graphite, Prometheus, Opentelemetry
 
-### DevOps & Cloud
-**CI/CD & Tools:** Docker, TeamCity, Jenkins, Git  
+### DevOps e Cloud
+**CI/CD e Strumenti:** Docker, TeamCity, Jenkins, Git  
 **Cloud:** AWS
 
-##s# Other Technologies
+### Altre Tecnologie
 Kafka, Asterisk, Puppeteer, Grafana, WebAssembly, service workers, web workers, OAuth, OpenID
 
+### Competenze Trasversali
 
-### Soft Skills
+- **Comunicazione:** eccellenti capacità comunicative, sia scritte che orali, con un'abilità naturale di trasmettere informazioni complesse in maniera semplice.<br>
+- **Lavoro di Squadra:** collaborativo, abile nel lavorare in un ambiente di team e capace di interagire con molteplici stakeholder, inclusi sviluppatori, tester e product owner.<br>
+- **Capacità Analitiche e di Problem Solving:** risolutore di problemi ingegnoso, con un occhio attento ai dettagli e la capacità di pensare in modo innovativo per trovare soluzioni creative.
 
-- **Communication**: excellent communication skills, both written and verbal, with a natural ability to convey complex information in a straightforward manner<br>
-- **Teamwork**: a collaborative team player, adept at working in a team environment and capable of working with multiple stakeholders, including developers, testers, and product owners<br>
-- **Analytical and Problem-Solving Skills**: a resourceful problem solver, with a keen eye for detail and the ability to think outside the box to come up with creative solutions<br>
-
-## The Latest Work Experience
+## Le Ultime Esperienze Lavorative
   
-`2024 - present`
-__Software Engineer in the Architecture Team at [IRION](https://www.irion-edm.com/), Turin (Italy).__ <br>
-Worked on a research project involving an extension that facilitates communication between SQL Server and DuckDB using ODBC drivers.Evaluate and integrate emerging technologies into Irion EDM platform through proofs-of-concept, identifying strengths and weaknesses to guide adoption decisions. Provide best practice recommendations and technical guidance to development teams. Developed telemetry solutions using Opentelemetry and explored technologies such as WebAssembly, service workers, and web workers to enhance system capabilities.Led the migration from Redis to Garnet and designed a distributed queue system using Garnet, improving data processing.<br>
+`2024 - presente`  
+__Ingegnere del Software nel Team di Architettura presso [IRION](https://www.irion-edm.com/), Torino (Italia).__<br>
+Ho lavorato su un progetto di ricerca che prevedeva un'estensione per facilitare la comunicazione tra SQL Server e DuckDB tramite driver ODBC. Ho valutato e integrato tecnologie emergenti nella piattaforma Irion EDM attraverso proof-of-concept, identificando punti di forza e debolezze per guidare le decisioni di adozione. Ho fornito raccomandazioni sulle best practice e orientamento tecnico ai team di sviluppo. Ho sviluppato soluzioni di telemetria utilizzando Opentelemetry ed esplorato tecnologie come WebAssembly, service workers e web workers per migliorare le capacità del sistema. Ho guidato la migrazione da Redis a Garnet e progettato un sistema di code distribuite utilizzando Garnet, migliorando il processamento dei dati.<br>
 
-**Technologies:** DuckDB, Opentelemetry, WebAssembly, service workers, web workers, OAuth, OpenID, Redis, Garnet<br>
+**Tecnologie:** DuckDB, Opentelemetry, WebAssembly, service workers, web workers, OAuth, OpenID, Redis, Garnet<br>
 
-`2021 - 2024`
-__Team Lead at [XCally - Ingo Group](https://www.ingogroup.it/), Turin (Italy).__ <br>
-Leading the development of new features for a product, a cloud-based and on-premise contact center solution. Responsible for the design of the solution architecture, the setup of the development processes, and the recruitment of the development team. Developed and designed integrations with Facebook, WhatsApp, OpenIA, and AWS Post Call Analytics and Transcribe. Created dashboards by exploiting a data lake and time series database that draw metrics. Spearheaded the development of a new reporting system by leveraging a data warehouse.<br> 
+`2021 - 2024`  
+__Team Lead presso [XCally - Ingo Group](https://www.ingogroup.it/), Torino (Italia).__<br>
+Ho guidato lo sviluppo di nuove funzionalità per un prodotto, una soluzione contact center basata su cloud e on-premise. Responsabile della progettazione dell'architettura della soluzione, dell'impostazione dei processi di sviluppo e del reclutamento del team di sviluppo. Ho sviluppato e progettato integrazioni con Facebook, WhatsApp, OpenIA e AWS Post Call Analytics e Transcribe. Ho creato dashboard sfruttando un data lake e un database a serie temporali per estrarre metriche. Ho guidato lo sviluppo di un nuovo sistema di reporting sfruttando un data warehouse.<br>
 
-I consolidated my skills in several areas and technologies, including: DevOps development, problem-solving, communication and presentation skills, and the ability to work in a team, Node.js, TypeScript, Nest.js, RxJs,Angular, Sequelize, Redis, AWS, Playwright, Asterisk, Prometheus, Graphite, Grafana<br>
+Ho consolidato le mie competenze in diverse aree e tecnologie, tra cui: sviluppo DevOps, problem-solving, capacità comunicative e di presentazione, e la capacità di lavorare in team, Node.js, TypeScript, Nest.js, RxJs, Angular, Sequelize, Redis, AWS, Playwright, Asterisk, Prometheus, Graphite, Grafana.<br>
 
-`2018 - 2021`
-__Senior Software Developer at [Lutech](https://lutech.group/it), Turin (Italy).__ <br>
-A key member of the Healthcare middleware product development team, serving as a full stack developer. Participated in the design and implementation of a large scale health care system which included building and integrating message-based microservices. Led the development of a system for the efficient management of patients' electronic health records, utilizing technologies such as .NET, ServiceStack, MongoDB, Redis, Docker, Puppeteer, and NUnit. Responsible for the creation and execution of the project's continuous integration/continuous development (CI/CD) pipeline using TeamCity. Consistently adheres to agile methodologies and ISO 13485 medical device quality management systems, coupled with managing and developing automatic release processes.
+`2018 - 2021`  
+__Senior Software Developer presso [Lutech](https://lutech.group/it), Torino (Italia).__<br>
+Membro chiave del team di sviluppo del prodotto middleware per il settore Healthcare, operando come sviluppatore full stack. Ho partecipato alla progettazione e implementazione di un sistema sanitario su larga scala che includeva la costruzione e integrazione di microservizi basati su messaggi. Ho guidato lo sviluppo di un sistema per la gestione efficiente delle cartelle cliniche elettroniche dei pazienti, utilizzando tecnologie come .NET, ServiceStack, MongoDB, Redis, Docker, Puppeteer e NUnit. Responsabile della creazione e dell'esecuzione della pipeline di integrazione e distribuzione continua (CI/CD) del progetto utilizzando TeamCity. Ho costantemente aderito alle metodologie agile e ai sistemi di gestione della qualità per dispositivi medici conformi alla norma ISO 13485, oltre a gestire e sviluppare processi automatici di rilascio.
 
-`2015 - 2018`
-__Consultant at [Reply](https://www.reply.com/), Milan (Italy).__ <br>
-As a consultant for the London Stock Exchange Group (LSEG), at the Milan Italian Stock Exchange (Borsa Italiana), I joined a development team working with various technologies across different projects, predominantly using C# and .Net.<br>
+`2015 - 2018`  
+__Consulente presso [Reply](https://www.reply.com/), Milano (Italia).__<br>
+In qualità di consulente per il London Stock Exchange Group (LSEG), presso la Borsa Italiana di Milano, ho fatto parte di un team di sviluppo che ha lavorato con diverse tecnologie su vari progetti, utilizzando prevalentemente C# e .NET.<br>
 
-In the context of a project (T2S), I developed a message acquisition system and designed libraries for ADO .Net and IBM MQ to streamline connection management, error message handling, query execution, and message capturing from and to IBM MQ / Oracle 12 DB queue.<br>
+Nel contesto di un progetto (T2S), ho sviluppato un sistema di acquisizione dei messaggi e progettato librerie per ADO .NET e IBM MQ per ottimizzare la gestione delle connessioni, il trattamento dei messaggi di errore, l'esecuzione delle query e la cattura dei messaggi da e verso la coda IBM MQ / Oracle 12 DB.<br>
 
-I participated in the development of a financial data monitoring platform based on ASP.NET MVC called T2S Dashboard, and was involved in the experimental development of a .Net Core, React.js, and Signal R based message exchange platform.<br>
+Ho partecipato allo sviluppo di una piattaforma di monitoraggio dei dati finanziari basata su ASP.NET MVC chiamata T2S Dashboard, e sono stato coinvolto nello sviluppo sperimentale di una piattaforma di scambio di messaggi basata su .NET Core, React.js e SignalR.<br>
 
-For another project (T2S), I converted a library from C\C++ technologies by rewriting the code in .NET. In a project (MDMS), I worked on a Spring-based platform and contributed to the development of customized versions for various clients of Monte Titoli.<br>
+Per un altro progetto (T2S), ho convertito una libreria da tecnologie C\C++ riscrivendo il codice in .NET. In un progetto (MDMS), ho lavorato su una piattaforma basata su Spring e contribuito allo sviluppo di versioni personalizzate per vari clienti di Monte Titoli.<br>
 
-On a project (QUiCK, MDMS) on the OpenText platform, I assisted in the migration of a product based on a Content Server (Document Management System), and developed an Eclipse plugin which added automation and versioning.<br>
+In un progetto (QUiCK, MDMS) sulla piattaforma OpenText, ho assistito nella migrazione di un prodotto basato su un Content Server (sistema di gestione documentale), e ho sviluppato un plugin per Eclipse che ha aggiunto automazione e versioning.<br>
 
-The technologies I worked with were: .NET, C#, ADO .NET, WCF, WPF, ASP .NET, MVC, .NET Core, MVVM, IIS 7, Oracle 12, SQLite, IBM DB2, IBM MQ 7.5, React JS, JQuery, Signal R, Livelink, Java, Spring, Java API for Microsoft Documents, Spring Stored Procedures, Spring JDBC Template, Spring Security, Internationalization, Tomcat, TFS, JIRA.
+Le tecnologie con cui ho lavorato sono state: .NET, C#, ADO .NET, WCF, WPF, ASP.NET, MVC, .NET Core, MVVM, IIS 7, Oracle 12, SQLite, IBM DB2, IBM MQ 7.5, React JS, JQuery, SignalR, Livelink, Java, Spring, Java API for Microsoft Documents, Spring Stored Procedures, Spring JDBC Template, Spring Security, Internazionalizzazione, Tomcat, TFS, JIRA.
 
-`2009 - 2011`
-__Freelancer Software Developer, Turin (Italia).__<br>
+`2009 - 2011`  
+__Sviluppatore Software Freelance, Torino (Italia).__<br>
 
-I worked on several projects, developing software for small businesses, including: 
-- a hotel management system (C#, WinForms, MS SQL Server);
-- a web application to manage the flow of orders and invoices (Java, JSP, Oracle DB);
-- a desktop application for a tobacco shop to manage sales and inventory (C#, WinForms, MS SQL Server);
+Ho lavorato su diversi progetti, sviluppando software per piccole imprese, tra cui: 
+- un sistema di gestione alberghiera (C#, WinForms, MS SQL Server);
+- un'applicazione web per gestire il flusso di ordini e fatture (Java, JSP, Oracle DB);
+- un'applicazione desktop per una tabaccheria per gestire vendite e inventario (C#, WinForms, MS SQL Server);
 
-`2007 - 2008`
-__Junior Software Developer at Acaint Group SL – Toledo (Spain).__<br>
+`2007 - 2008`  
+__Sviluppatore Software Junior presso Acaint Group SL – Toledo (Spagna).__<br>
 
-I was integrated into a team that developed desktop applications for public administration and personnel management. My role within the team was as a front-end developer where I created interfaces using Java Swing, worked with JDBC for data access, and wrote tests using JUnit.
+Sono stato integrato in un team che sviluppava applicazioni desktop per la pubblica amministrazione e la gestione del personale. Il mio ruolo nel team era di sviluppatore front-end, dove ho creato interfacce utilizzando Java Swing, lavorato con JDBC per l'accesso ai dati e scritto test utilizzando JUnit.
 
-`2006 - 2007`
-__Junior Developer at Unreal Home Web S.r.l – Galati (Romania).__<br>
-As a part of a team specializing in web applications, I took part in the development of websites for various clientele. During this time, I also completed an internship subsequent to my high school education.
+`2006 - 2007`  
+__Junior Developer presso Unreal Home Web S.r.l – Galati (Romania).__<br>
+Come parte di un team specializzato in applicazioni web, ho partecipato allo sviluppo di siti web per vari clienti. Durante questo periodo, ho anche completato uno stage successivo al mio percorso di scuola superiore.
 
-## Education
+## Formazione
 
-`2011 - 2015`
-__University of Turin, Turin (Italy).__ <br>
-Degree in Information Science and Technology.<br>
-The thesis was titled: "Middleware communication solutions for in vitro diagnostic laboratories".
+`2011 - 2015`  
+__Università degli Studi di Torino, Torino (Italia).__<br>
+Laurea in Scienze e Tecnologie dell'Informazione.<br>
+La tesi si intitolava: "Soluzioni di comunicazione middleware per laboratori diagnostici in vitro".
 
+`2000 - 2004`  
+__Gruppo Scolastico Industriale Constantin Brancoveanu, Brăila (Romania).__<br>
+Specializzazione in Tecnologie dell'Informazione e Matematica.
 
-`2000 - 2004` 
-__Constantin Brancoveanu Industrial School Group, Braila (Romania).__ <br>
-Specialization in Information Technology and Mathematics.
+## Competenze Linguistiche
 
-## Language Competence
+`Intermedio` Inglese.<br>
+`Fluente` Italiano.<br>
+`Intermedio` Spagnolo.<br>
+`Principiante` Portoghese.<br>
+`Madrelingua (bilingue)` Rumeno.<br>
+Russo.
 
-`Intermediate` English. <br>
-`Fluent` Italian. <br>
-`Intermediate` Spanish. <br>
-`Beginner` Portuguese. <br>
-`Native Language (bilingual)` Romanian. <br>
-Russian. <br>
+## Interessi Personali
 
-## Personal Interests
+Appassionato di tecnologia e fervente estimatore della fantascienza, nutro una naturale curiosità per entrambi i settori. Il mio interesse si estende anche alle arti culinarie, in cui esprimo il mio amore per il cibo, in particolare per la cucina italiana, che coltivo attraverso la mia passione per la cucina. Con una predilezione per il fai-da-te, in particolare il lavoro in legno, trovo soddisfazione nel realizzare vari progetti manuali. Inoltre, adoro l'emozione di scoprire nuovi luoghi, avendo viaggiato ampiamente in diversi paesi in Europa e Sud America. Le passeggiate nella natura, immerse nei boschi, rappresentano il mio modo ideale di trascorrere le giornate più fresche, mentre nuotare o fare mountain bike sono le attività che preferisco durante il caldo.
 
-Passionate about technology and an ardent aficionado of science fiction, I have a natural curiosity for both sectors. My interest extends to the culinary arts where I showcase my love for food, particularly Italian cuisine, which I indulge through my hobby of cooking. With an affinity for crafting, particularly woodwork, I find fulfillment in pursuing different DIY projects. Furthermore, I revel in the thrill of exploring new places, having extensively toured various countries across Europe and South America. Nature walks through forests are my ideal way of spending cooler days, while swimming or mountain biking are my preferred activities during warmer weather.
+### Dichiarazione di Consenso
+Con la presente, fornisco il mio esplicito consenso all'utilizzo dei miei dati personali in conformità al Regolamento Generale sulla Protezione dei Dati (Regolamento UE 2016/679). Questo consenso si applica in tutta l'Unione Europea, in Svizzera e nel Regno Unito.
 
-### Declaration of Consent
-I hereby provide my explicit consent for the use of my personal information in accordance with the General Data Protection Regulation (Regulation EU 2016/679). This consent applies throughout the European Union, Switzerland, and the United Kingdom.
+In conformità con il Decreto Legislativo italiano n. 196 del 30/06/2003, autorizzo l'utilizzo e il trattamento dei miei dati personali contenuti in questo documento.
 
-In compliance with the Italian legislative Decree no. 196 dated 30/06/2003, I hereby authorize you to use and process my personal details contained in this document.
-
-### Further Information
-Last updated: February 2025
-
-
-
+### Ulteriori Informazioni
+Ultimo aggiornamento: febbraio 2025
