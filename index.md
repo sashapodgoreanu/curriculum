@@ -4,10 +4,10 @@ title: Curriculum Vitae di Alexandru Podgoreanu
 ---
 
 # Alexandru Podgoreanu
-Ingegnere del Software
+Software Engineer
 
 <div id="webaddress">
-<i class="fa fa-envelope"></i> <a href="mailto:sasha.podgoreanu@gmail.com">sasha.podgoreanu@gmail.com</a>
+<i class="fa fa-envelope"></i> <a href="mailto:p.alxzeta@gmail.com">sasha.podgoreanu@gmail.com</a>
 | <i class="fa fa-phone"></i> <a href="tel:+39 3280169285">(+39) 328 016 9285</a>
 </div>
 
@@ -42,9 +42,9 @@ Kafka, Asterisk, Puppeteer, Grafana, WebAssembly, service workers, web workers, 
 
 ### Competenze Trasversali
 
-- **Comunicazione:** eccellenti capacità comunicative, sia scritte che orali, con un'abilità naturale di trasmettere informazioni complesse in maniera semplice.<br>
+- **Comunicazione:** buone capacità comunicative, sia scritte che orali, e la capacità di spiegare chiaramente concetti complessi.<br>
 - **Lavoro di Squadra:** collaborativo, abile nel lavorare in un ambiente di team e capace di interagire con molteplici stakeholder, inclusi sviluppatori, tester e product owner.<br>
-- **Capacità Analitiche e di Problem Solving:** risolutore di problemi ingegnoso, con un occhio attento ai dettagli e la capacità di pensare in modo innovativo per trovare soluzioni creative.
+- **Capacità Analitiche e di Problem Solving:** Abile nell'individuare e risolvere problemi grazie all'attenzione ai dettagli e alla capacità di sviluppare soluzioni pratiche.<br>
 
 ## Le Ultime Esperienze Lavorative
   
