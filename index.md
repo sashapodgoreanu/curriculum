@@ -113,7 +113,8 @@ Specializzazione in Tecnologie dell'Informazione e Matematica.
 `Fluente` Italiano.<br>
 `Intermedio` Spagnolo.<br>
 `Principiante` Portoghese.<br>
-`Madrelingua (bilingue)` Rumeno.<br>
+`Madrelingua` Rumeno.<br>
+`Principiante` Russo.<br>
 
 ## Interessi Personali
 
