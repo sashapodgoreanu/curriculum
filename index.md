@@ -69,13 +69,13 @@ Membro chiave del team di sviluppo del prodotto middleware per il settore Health
 __Consulente presso [Reply](https://www.reply.com/), Milano (Italia).__<br>
 In qualità di consulente per il London Stock Exchange Group (LSEG), presso la Borsa Italiana di Milano, ho fatto parte di un team di sviluppo che ha lavorato con diverse tecnologie su vari progetti, utilizzando prevalentemente C# e .NET.<br>
 
-Nel contesto di un progetto (T2S), ho sviluppato un sistema di acquisizione dei messaggi e progettato librerie per ADO .NET e IBM MQ per ottimizzare la gestione delle connessioni, il trattamento dei messaggi di errore, l'esecuzione delle query e la cattura dei messaggi da e verso la coda IBM MQ / Oracle 12 DB.<br>
+Nel contesto di un progetto Target2 Securities (T2S), ho sviluppato un sistema di acquisizione dei messaggi e progettato librerie per ADO .NET e IBM MQ per ottimizzare la gestione delle connessioni, il trattamento dei messaggi di errore, l'esecuzione delle query e la cattura dei messaggi da e verso la coda IBM MQ / Oracle 12 DB.<br>
 
 Ho partecipato allo sviluppo di una piattaforma di monitoraggio dei dati finanziari basata su ASP.NET MVC chiamata T2S Dashboard, e sono stato coinvolto nello sviluppo sperimentale di una piattaforma di scambio di messaggi basata su .NET Core, React.js e SignalR.<br>
 
-Per un altro progetto (T2S), ho convertito una libreria da tecnologie C\C++ riscrivendo il codice in .NET. In un progetto (MDMS), ho lavorato su una piattaforma basata su Spring e contribuito allo sviluppo di versioni personalizzate per vari clienti di Monte Titoli.<br>
+Per lo stesso progetto (T2S), ho convertito una libreria da tecnologie C\C++ riscrivendo il codice in .NET. In un progetto Euronext Securities Milan (MDMS), ho lavorato su una piattaforma basata su Spring e contribuito allo sviluppo di versioni personalizzate per vari clienti di Monte Titoli.<br>
 
-In un progetto (QUiCK, MDMS) sulla piattaforma OpenText, ho assistito nella migrazione di un prodotto basato su un Content Server (sistema di gestione documentale), e ho sviluppato un plugin per Eclipse che ha aggiunto automazione e versioning.<br>
+In un progetto QUOTATION in a CLICK (QUiCK) sulla piattaforma OpenText, ho assistito nella migrazione di un prodotto basato su un Content Server (sistema di gestione documentale), e ho sviluppato un plugin per Eclipse che ha aggiunto automazione e versioning.<br>
 
 Le tecnologie con cui ho lavorato sono state: .NET, C#, ADO .NET, WCF, WPF, ASP.NET, MVC, .NET Core, MVVM, IIS 7, Oracle 12, SQLite, IBM DB2, IBM MQ 7.5, React JS, JQuery, SignalR, Livelink, Java, Spring, Java API for Microsoft Documents, Spring Stored Procedures, Spring JDBC Template, Spring Security, Internazionalizzazione, Tomcat, TFS, JIRA.
 
