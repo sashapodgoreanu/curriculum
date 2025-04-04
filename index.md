@@ -12,8 +12,7 @@ Software Engineer
   | <i class="fa fa-map-marker"></i> Turin, Italy
 </div>
 
-## Current Position<br>
-### Professional Profile<br>
+## Professional Profile<br>
 
 A seasoned full-stack developer with over a decade of experience in designing, developing, and deploying robust software solutions—from small websites to large-scale enterprise applications. With a strong focus on software architecture, I excel at evaluating and integrating emerging technologies to build scalable, high-performance systems. I am committed to delivering quality work, continuous learning, and agile adaptation in a fast-paced technological environment.<br>
 
