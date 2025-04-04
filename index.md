@@ -9,7 +9,8 @@ Software Engineer
 <div id="webaddress">
   <i class="fa fa-envelope"></i> <a href="mailto:p.alxzeta@gmail.com">p.alxzeta@gmail.com</a>  
   | <i class="fa fa-phone"></i> <a href="tel:+39 3280169285">(+39) 328 016 9285</a>  
-  | <i class="fa fa-map-marker"></i> Turin, Italy
+  | <i class="fa fa-map-marker"></i> Turin, Italy  
+  | <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/pdgalex">linkedin.com/in/pdgalex</a>
 </div>
 
 ## Professional Profile<br>
