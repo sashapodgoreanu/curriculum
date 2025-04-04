@@ -7,8 +7,9 @@ title: Alexandru Podgoreanu's CV
 Software Engineer
 
 <div id="webaddress">
-<i class="fa fa-envelope"></i> <a href="mailto:sasha.podgoreanu@gmail.com">sasha.podgoreanu@gmail.com</a>
-| <i class="fa fa-phone"></i> <a href="tel:+39 3280169285">(+39) 328 016 9285</a>
+	<i class="fa fa-envelope"></i> <a href="mailto:p.alxzeta@gmail.com">p.alxzeta@gmail.com</a>
+	<i class="fa fa-phone"></i> <a href="tel:+39 3280169285">(+39) 328 016 9285</a>
+	<i class="fa fa-city"></i> <a href="https://www.google.com/maps/place/Turin,+Italy/@45.070339,7.686864,12z/data=!3m1!4b1!4m6!3m5!1s0x12c6a0f2d8e9f2b5:0x7c8e2d4f3b8f2b5!8m2!3d45.070339!4d7.686864!16zL20vMDJtZzQ">Turin, Italy</a>
 </div>
 
 ## Currently
