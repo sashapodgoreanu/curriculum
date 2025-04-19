@@ -12,8 +12,7 @@ Software Engineer
 | <i class="fa fa-map-marker"></i> Torino (Italia)
 </div>
 
-## Attualmente
-### Profilo Professionale
+## Profilo Professionale
 
 <!--
 (Un breve riepilogo della tua carriera, evidenziando la tua esperienza, qualifiche e competenze nell'ingegneria del software.)
