@@ -21,12 +21,12 @@ Software Engineer
 Sviluppatore full-stack esperto con oltre un decennio di esperienza nello sviluppo e nell'ingegneria del software. Ho progettato, sviluppato e implementato con successo soluzioni robuste per progetti che spaziano da piccoli siti web a grandi applicazioni aziendali. Con una profonda attenzione all'architettura del software, eccello nella valutazione e integrazione di tecnologie emergenti per creare sistemi scalabili e ad alte prestazioni. Sono appassionato nel fornire lavori di alta qualità, nell'apprendimento continuo e nell'adattamento in un panorama tecnologico in rapida evoluzione.
 
 ### Linguaggi di Programmazione
-**Competente:** C#, TypeScript, JavaScript, Java, C, C++
+**Competente:** C#, C++, C, TypeScript, JavaScript, Python
 
 ### Framework e Librerie
 **Backend:** .NET, ServiceStack, Node.js, Express.js, Nest.js  
 **Frontend:** Angular, Angular.js, RxJs, NgRx  
-**Testing:** Jest, Playwright, NUnit, MSTest  
+**Testing:** Jest, Playwright, NUnit, XUnit  
 
 ### Database e Gestione Dati
 **Relazionali:** Oracle, Microsoft SQL Server, MySQL, PostgreSQL, SQLite  
@@ -38,7 +38,7 @@ Sviluppatore full-stack esperto con oltre un decennio di esperienza nello svilup
 **Cloud:** AWS
 
 ### Altre Tecnologie
-Kafka, Asterisk, Puppeteer, Grafana, WebAssembly, service workers, web workers, OAuth, OpenID
+Kafka, Asterisk, Puppeteer, Grafana, WebAssembly, service workers, web workers, OAuth, OpenID, Data Lake House
 
 ### Competenze Trasversali
 
@@ -50,7 +50,14 @@ Kafka, Asterisk, Puppeteer, Grafana, WebAssembly, service workers, web workers, 
   
 `2024 - presente`  
 __Ingegnere del Software nel Team di Architettura presso [IRION](https://www.irion-edm.com/), Torino (Italia).__<br>
-Ho lavorato su un progetto di ricerca che prevedeva un'estensione per facilitare la comunicazione tra SQL Server e DuckDB tramite driver ODBC. Ho valutato e integrato tecnologie emergenti nella piattaforma Irion EDM attraverso proof-of-concept, identificando punti di forza e debolezze per guidare le decisioni di adozione. Ho fornito raccomandazioni sulle best practice e orientamento tecnico ai team di sviluppo. Ho sviluppato soluzioni di telemetria utilizzando Opentelemetry ed esplorato tecnologie come WebAssembly, service workers e web workers per migliorare le capacità del sistema. Ho guidato la migrazione da Redis a Garnet e progettato un sistema di code distribuite utilizzando Garnet, migliorando il processamento dei dati.<br>
+
++ Progettazione e implementazione di un’estensione DuckDB in C++ per la connessione a SQL Server, comprensiva di mappatura e ottimizzazione avanzata dei tipi di dato.<br>
+
++ Sviluppo di proof-of-concept per l’integrazione di OpenTelemetry nell’applicazione principale, definendo linee guida per la raccolta e l’analisi di metriche e log.<br>
+
++ Realizzazione di un prototipo WebAssembly con Origin Private File System per l’esecuzione di DuckDB in-browser, dimostrando capacità di ETL/ELT su grandi dataset direttamente nel client.<br>
+
++ Avvio di un progetto Data Lake House per la gestione di database specializzati: definizione di meccanismi di governance, transazionalità ACID e progettazione di API REST per motori di query esterni (Spark, Trino).<br>
 
 **Tecnologie:** DuckDB, Opentelemetry, WebAssembly, service workers, web workers, OAuth, OpenID, Redis, Garnet<br>
 
