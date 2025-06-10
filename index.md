@@ -134,4 +134,4 @@ Con la presente, fornisco il mio esplicito consenso all'utilizzo dei miei dati p
 In conformità con il Decreto Legislativo italiano n. 196 del 30/06/2003, autorizzo l'utilizzo e il trattamento dei miei dati personali contenuti in questo documento.
 
 ### Ulteriori Informazioni
-Ultimo aggiornamento: febbraio 2025
+Ultimo aggiornamento: giugno 2025
