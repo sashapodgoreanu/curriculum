@@ -51,15 +51,15 @@ Kafka, Asterisk, Puppeteer, Grafana, WebAssembly, service workers, web workers, 
 `2024 - presente`  
 __Ingegnere del Software nel Team di Architettura presso [IRION](https://www.irion-edm.com/), Torino (Italia).__<br>
 
-+ Progettazione e implementazione di un’estensione DuckDB in C++ per la connessione a SQL Server, comprensiva di mappatura e ottimizzazione avanzata dei tipi di dato.<br>
+Progettazione e implementazione di un’estensione DuckDB in C++ per la connessione a SQL Server, comprensiva di mappatura e ottimizzazione avanzata dei tipi di dato.<br>
 
-+ Sviluppo di proof-of-concept per l’integrazione di OpenTelemetry nell’applicazione principale, definendo linee guida per la raccolta e l’analisi di metriche e log.<br>
+Sviluppo di proof-of-concept per l’integrazione di OpenTelemetry nell’applicazione principale, definendo linee guida per la raccolta e l’analisi di metriche e log.<br>
 
-+ Realizzazione di un prototipo WebAssembly con Origin Private File System per l’esecuzione di DuckDB in-browser, dimostrando capacità di ETL/ELT su grandi dataset direttamente nel client.<br>
+Realizzazione di un prototipo WebAssembly con Origin Private File System per l’esecuzione di DuckDB in-browser, dimostrando capacità di ETL/ELT su grandi dataset direttamente nel client.<br>
 
-+ Sviluppo di proof-of-concept con Redis e Garnet per la gestione di code distribuite, incrementando velocità e affidabilità del processamento dati.<br>
+Sviluppo di proof-of-concept con Redis e Garnet per la gestione di code distribuite, incrementando velocità e affidabilità del processamento dati.<br>
 
-+ Avvio di un progetto Data Lake House per la gestione di database specializzati: definizione di meccanismi di governance, transazionalità ACID e progettazione di API REST per motori di query esterni (Spark, Trino).<br>
+Avvio di un progetto Data Lake House per la gestione di database specializzati: definizione di meccanismi di governance, transazionalità ACID e progettazione di API REST per motori di query esterni (Spark, Trino).<br>
 
 **Tecnologie:** DuckDB, Opentelemetry, WebAssembly, service workers, web workers, OAuth, OpenID, Redis, Garnet<br>
 
