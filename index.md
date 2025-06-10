@@ -57,7 +57,7 @@ Sviluppo di proof-of-concept per l’integrazione di OpenTelemetry nell’applic
 
 Realizzazione di un prototipo WebAssembly con Origin Private File System per l’esecuzione di DuckDB in-browser, dimostrando capacità di ETL/ELT su grandi dataset direttamente nel client.<br>
 
-Sviluppo di proof-of-concept con Redis e Garnet per la gestione di code distribuite, incrementando velocità e affidabilità del processamento dati.<br>
+Sviluppo di proof-of-concept con Redis e Garnet per la gestione di code distribuite per incrementare la velocità del processamento dati in stream.<br>
 
 Avvio di un progetto Data Lake House per la gestione di database specializzati: definizione di meccanismi di governance, transazionalità ACID e progettazione di API REST per motori di query esterni (Spark, Trino).<br>
 
