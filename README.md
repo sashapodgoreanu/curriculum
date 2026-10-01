@@ -40,6 +40,52 @@ Any change you want to make to your CV from then on would have to be done on the
 4. You can edit the `index.md` file and see the changes live in your browser.
 5. To print a PDF, press <kbd>⌘</kbd> + <kbd>p</kbd>. Print and web CSS media queries should take care of the styling.
 
+## Export to Word
+
+The Python exporter reads `index.md` and creates an editable `.docx` with the
+project photo, headings, bullet lists, and working hyperlinks. The Markdown is
+the source of truth: regenerating a Word file replaces edits made only in Word.
+The Word layout is a simple single-column CV, independent of the website CSS.
+
+Requires Python 3.10 or newer. On Windows, from the repository directory:
+
+```powershell
+py -3 -m venv .venv
+.\.venv\Scripts\python.exe -m pip install -r requirements-docx.txt
+.\.venv\Scripts\python.exe scripts/export_docx.py
+```
+
+On macOS/Linux, use `python3 -m venv .venv` and `.venv/bin/python` instead.
+Microsoft Word, LibreOffice, and Jekyll are not required for export.
+
+Language is detected from the CV. Defaults are `build/cv-en.docx` on `gh-pages`
+and `build/cv-it.docx` on `gh-pages-ita`. Generated files are ignored by Git.
+
+```powershell
+# A4 paper, custom output, or a version without a photo
+.\.venv\Scripts\python.exe scripts/export_docx.py --page-size a4 --output build/curriculum.docx
+.\.venv\Scripts\python.exe scripts/export_docx.py --no-photo
+
+# Export the Italian worktree from the English repository
+.\.venv\Scripts\python.exe scripts/export_docx.py --input ../curriculum-ita/index.md
+```
+
+Use `--photo path/to/image.jpg` to replace the portrait or `--language en|it`
+to override detection. Paper defaults to Letter; pass `--page-size a4` for A4.
+Inspect the generated file in Word before sending it, especially after adding
+content. The exporter supports this CV's headings, paragraphs, bold/italic text,
+links, date spans, bullet lists, contact HTML, and `<br>` breaks. It reports an
+error for unsupported Markdown instead of silently dropping content.
+
+Keep `scripts/export_docx.py`, `requirements-docx.txt`, the export instructions,
+and shared styles identical on both language branches. Translate only CV content.
+
+Run the content-preservation checks with:
+
+```powershell
+.\.venv\Scripts\python.exe -m unittest discover -s tests -v
+```
+
 ## Styling
 
 The included CSS will render your CV in two styles:
