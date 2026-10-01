@@ -87,7 +87,10 @@ p code {
 ul {
 	position: relative;
 	left: 25%;
-	width: 75%;
+	width: 60%;
+	box-sizing: border-box;
+	padding-left: 1.1em;
+	list-style-type: disc;
 	margin-bottom: 1em;
 	/*margin-top: -0.5em;*/
 }
@@ -101,8 +104,9 @@ ul {
 
 li {
 	/*second line indent*/
-	padding-left: 1.25em;
-	text-indent: -1.25em;
+	padding-left: 0;
+	text-indent: 0;
+	margin-bottom: 0.3em;
 	/*color: #777;*/
 }
 
@@ -120,6 +124,7 @@ h1,h2,h3,h4 {
 }
 
 h1 {
+	width: 75%;
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
@@ -164,6 +169,7 @@ a:hover {
 }
 
 #webaddress {
+	width: 75%;
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
