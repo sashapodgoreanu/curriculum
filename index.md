@@ -4,7 +4,7 @@ title: Alexandru Podgoreanu's Curriculum Vitae
 ---
 
 # Alexandru Podgoreanu
-Software Architect | Data Platforms & Integration
+Software Architect & Product Engineer | Data Platforms, Integration & Applied AI
 
 <div id="webaddress">
   <i class="fa fa-envelope"></i> <a href="mailto:p.alxzeta@gmail.com">p.alxzeta@gmail.com</a>
@@ -14,22 +14,23 @@ Software Architect | Data Platforms & Integration
 
 ## Professional Profile
 
-Software Architect with a full-stack engineering background and over a decade of experience in enterprise software. At Irion, I evaluate technologies against product requirements, design architectures, and implement solutions with the team, with a recent focus on data platforms and integration. My approach combines technical experimentation, critical assessment of architectural trade-offs, and collaboration with stakeholders to define specifications that guide implementation and testing with AI coding agents.
+Hands-on Software Architect and senior engineer with over a decade of experience designing, developing and evolving enterprise products. I focus on reusable data platforms, integration engines and scalable architectures: turning complex requirements into configurable capabilities that can serve multiple customers rather than one-off implementations. At Irion, I combine architecture with direct development of data-processing technology, DuckDB-based lakehouse components and data-quality rule execution. Outside work, I am building Hippo, a modular, multi-tenant software platform with an evolving data and AI architecture. I enjoy validating technical choices through prototypes, delivering working software and balancing engineering trade-offs with product value.
 
 ## Professional Experience
 
 `2024 - Present`<br>
-__Software Architect, Architecture Team at [Irion](https://www.irion-edm.com/), Turin, Italy__
+__Software Architect & Developer, Architecture Team at [Irion](https://www.irion-edm.com/), Turin, Italy__
 
-- Evaluate technologies and architectural options for the product through research and prototyping, and implement the selected solutions with the team.
-- Recent work has focused on ETL/ELT technologies, data transfer protocols, and Apache Iceberg, including the implementation of extensions for Google BigQuery integration.
-- Implemented a lakehouse based on DuckLake and PostgreSQL, progressing from architectural exploration to implementation.
-- Contributed to Helm charts for deploying the lakehouse metastore on Kubernetes, using technologies from the Cloud Native Computing Foundation (CNCF) ecosystem.
-- Adopt specification-driven development: work with stakeholders to define specifications, then use AI coding agents for implementation and testing alongside the team.
-- Designed and implemented a DuckDB extension in C++ for SQL Server connectivity, including data type mapping and optimization.
-- Developed proofs of concept for OpenTelemetry integration and in-browser DuckDB execution using WebAssembly and the Origin Private File System, exploring observability and client-side ETL/ELT.
+- Architect and develop capabilities of **Irion EDM**, a declarative Enterprise Data Management platform used to build customer-specific data applications by configuring reusable data pipelines, transformation logic and business rules rather than changing platform code for each client.
+- Work hands-on across product architecture, technology evaluation, prototyping and implementation, with particular focus on the internals of the platform's cross-cutting **ETL/ELT and data-processing engine**: connectivity, data movement, transformations and execution for analytics, AI data preparation and control workflows.
+- Designed and implemented a **DuckDB-based lakehouse architecture** using DuckLake and PostgreSQL, working with object storage and S3-compatible interfaces to support reusable data-processing workloads.
+- Built a **C++ DuckDB extension for Microsoft SQL Server** connectivity, covering data type mapping and query/data-transfer optimizations; also implemented integration capabilities for **Google BigQuery** and worked with cloud data sources.
+- Contribute to the architecture and evolution of a reusable **Rule Engine** employed in banking for **data quality and governance**, including how configurable rules are executed and how DuckDB can support more efficient processing.
+- Evaluated Apache Iceberg and data transfer protocols; contributed Helm-based deployment work for the lakehouse metastore on Kubernetes.
+- Explored **OpenTelemetry** for platform observability and **DuckDB WebAssembly** with browser storage for client-side data processing.
+- Collaborate with stakeholders on product requirements, architectural trade-offs and specifications, combining hands-on engineering with AI-assisted implementation and testing.
 
-**Technologies:** DuckDB, DuckLake, PostgreSQL, Apache Iceberg, Google BigQuery, C++, Helm, Kubernetes, OpenTelemetry, WebAssembly
+**Technologies:** DuckDB, DuckLake, PostgreSQL, SQL, S3-compatible object storage, Google BigQuery, SQL Server, C++, Apache Iceberg, Helm, Kubernetes, OpenTelemetry, WebAssembly
 
 `2021 - 2024`<br>
 __Team Lead at [XCally - Ingo Group](https://www.ingogroup.it/), Turin, Italy__
@@ -72,14 +73,26 @@ __Junior Developer at Unreal Home Web S.r.l, Galati, Romania__
 
 Contributed to client web applications, including an internship following high school.
 
+## Independent Product Development
+
+`2026 - Present (part-time / personal project)`<br>
+__Hippo — Modular Multi-Tenant Software Platform (in development)__
+
+- Developing **Hippo** as a modular product platform, with a shared core for tenant, user and module management and a foundation for independent application capabilities.
+- Designing clear boundaries between the **Core, Data Platform and AI Platform**, so data ingestion and processing can be reused by different modules and AI-powered experiences rather than embedded in individual applications.
+- Working on a **configuration-driven ETL/ELT architecture** with JSON-defined pipelines and an external execution engine, plus event-driven communication between the data and AI layers.
+- Defining the architecture for **document processing, RAG/agent workflows and an AI chat interface** that consumes prepared datasets; these AI capabilities are in the design and development stage, not presented as a production deployment.
+- Building and evaluating the multi-tenant backend and frontend foundations with **TypeScript, NestJS, React, PostgreSQL and NATS**, using a specification-driven development approach.
+
 ## Technical Skills
 
-- **Data platforms & integration:** ETL/ELT, data transfer protocols, DuckDB, DuckLake, Apache Iceberg, Google BigQuery, PostgreSQL, SQL Server, Oracle, MySQL, SQLite, MongoDB, Redis, Elasticsearch, Kafka.
+- **Architecture & product engineering:** Reusable platform components, configurable workflows, multi-tenant systems, backend and API design, REST services, event-driven architecture, architectural prototyping and specification-driven development.
+- **Data platforms & integration:** ETL/ELT engine architecture, data pipelines, data quality and rule execution, advanced SQL, DuckDB, DuckLake, Apache Iceberg, Google BigQuery, S3-compatible object storage, PostgreSQL, SQL Server, Oracle, MySQL, SQLite, MongoDB, Redis, Elasticsearch, Kafka.
 - **Languages:** C#, C++, C, TypeScript, JavaScript, Python.
-- **Backend & frontend:** .NET, ServiceStack, Node.js, Express.js, NestJS, Angular, AngularJS, RxJS, NgRx, WebAssembly.
+- **Backend & frontend:** .NET, ServiceStack, Node.js, Express.js, NestJS, React, Angular, AngularJS, RxJS, NgRx, WebAssembly.
 - **Cloud, delivery & observability:** AWS, Docker, Kubernetes, Helm, Git, TeamCity, Jenkins, OpenTelemetry, Prometheus, Graphite, Grafana.
-- **Testing & development practices:** NUnit, xUnit, Jest, Playwright; architectural prototyping, stakeholder collaboration, specification-driven development, AI-assisted implementation and testing.
-- **Additional technologies:** OAuth, OpenID, service workers, web workers, Garnet, Puppeteer, Asterisk.
+- **AI & engineering practices:** OpenAI API integrations, AI-assisted implementation and testing, specification-driven workflows; ongoing personal-platform design for RAG, agents and AI chat.
+- **Testing & additional technologies:** NUnit, xUnit, Jest, Playwright, OAuth, OpenID, service workers, web workers, Garnet, Puppeteer, Asterisk.
 
 ## Education
 
