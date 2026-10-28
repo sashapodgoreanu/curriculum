@@ -53,8 +53,8 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 12pt;
-	line-height: 1.35em;
+	font-size: 9.5pt;
+	line-height: 1.28em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
 	/*margin-top: 1em;
@@ -66,7 +66,7 @@ p {
 	left: 25%;
 	margin-bottom: 0.2em;
 	margin-right: 0;
-	width: 60%;
+	width: 70%;
 }
 
 code {
@@ -74,24 +74,24 @@ code {
 	font-size: 90%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #ccc;
+	color: #555;
 }
 
 p code {
 	position: absolute;
 	text-align: right;
-	right: -20%;
+	right: -4%;
 }
 
 
 ul {
 	position: relative;
 	left: 25%;
-	width: 60%;
+	width: 70%;
 	box-sizing: border-box;
 	padding-left: 1.1em;
 	list-style-type: disc;
-	margin-bottom: 1em;
+	margin-bottom: 0.7em;
 	/*margin-top: -0.5em;*/
 }
 
@@ -106,7 +106,7 @@ li {
 	/*second line indent*/
 	padding-left: 0;
 	text-indent: 0;
-	margin-bottom: 0.3em;
+	margin-bottom: 0.2em;
 	/*color: #777;*/
 }
 
@@ -126,7 +126,7 @@ h1,h2,h3,h4 {
 h1 {
 	width: 75%;
 	text-align: left;
-	font-size: 3em;
+	font-size: 2.35em;
 	line-height: 1em;
 	position: relative;
 	left: 25%;
@@ -141,7 +141,7 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #a00;
-	margin-top: 2em;
+	margin-top: 1.6em;
 	position: relative;
 	top: 1.2em;
 	text-align: right;
@@ -152,7 +152,7 @@ h2 {
 h3 {
 	font-size: 1em;
 	line-height: 2em;
-	color: #ccc;
+	color: #555;
 	position: relative;
 	top: 1.6em;
 	text-align: right;
@@ -173,9 +173,9 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #ccc;
+	color: #555;
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	font-size: 90%;
+	font-size: 85%;
 }
 
 #webaddress a {
@@ -194,4 +194,24 @@ strong {
 #ghbutton {
 	display: none;
 	visibility: hidden;
+}
+
+/* Print-specific A4 layout; the screen stylesheet is unchanged. */
+@page {
+  size: A4;
+  margin: 12mm 13mm;
+}
+
+h2, h3 {
+  break-after: avoid;
+  page-break-after: avoid;
+}
+
+li {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+.profile-image {
+  height: 78px !important;
 }
